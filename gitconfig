@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = johnfaria1988@hotmail.com
+	name = John Donoghue
